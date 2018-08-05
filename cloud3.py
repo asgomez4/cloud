@@ -25,7 +25,7 @@ RCpin = 24
 DHTpin = 23
 
 #Setup our API and delay
-myAPI = "***Insert Your API CODE HERE***"
+myAPI = "5GR5RVJG6VO4ZVCL"
 myDelay = 15 #how many seconds between posting data
 
 GPIO.setmode(GPIO.BCM)
